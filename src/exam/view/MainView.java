@@ -6,10 +6,7 @@ public class MainView {
 		System.out.println("Hello World");
 		System.out.println("Nice To Meet You");
 		System.out.println("Is this right, World?");
-<<<<<<< Updated upstream
 		System.out.println("Everything is okay");
-=======
->>>>>>> Stashed changes
 		System.out.println("Confirmed");
 	}
 }
