@@ -1,6 +1,6 @@
 package exam.view;
 
-public class MainView {
+public class MemberController {
 
 	public static void main(String[] args) {
 		System.out.println("Hello World");
